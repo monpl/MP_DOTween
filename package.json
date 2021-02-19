@@ -1,14 +1,15 @@
 {
   "name": "com.monpl.dotween",
   "displayName": "DOTween plugins",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "unity": "2019.3",
   "description": "DOTween plugins for unity",
   "dependencies": {
   },
   "keywords": [
     "unity",
-    "dotween"
+    "dotween",
+    "monpl"
   ],
   "license": "MIT",
   "author": {
