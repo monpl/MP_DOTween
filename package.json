@@ -1,0 +1,24 @@
+{
+  "name": "com.monpl.dotween",
+  "displayName": "DOTween plugins",
+  "version": "0.0.1",
+  "unity": "2019.3",
+  "description": "DOTween plugins for unity",
+  "dependencies": {
+  },
+  "keywords": [
+    "unity",
+    "dotween"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "MonsterPlanet",
+    "email": "kyc521@monsterplanet.co.kr",
+    "url": "https://monsterplanet.co.kr"
+  },
+  "homepage": "https://monsterplanet.co.kr",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:monpl/com.monpl.dotween.git"
+  }
+}
